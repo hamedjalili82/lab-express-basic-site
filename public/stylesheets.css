@@ -1,0 +1,19 @@
+body {
+    background-color: palevioletred;
+}
+
+ul {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
